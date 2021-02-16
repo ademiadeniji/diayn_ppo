@@ -46,5 +46,5 @@
 
 Run training and evaluation:
 ```bash
-python train_eval_ppo.py --root_dir outputs
+python train_diayn_ppo.py --root_dir outputs
 ```
