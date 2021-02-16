@@ -1,0 +1,10 @@
+tensorflow-gpu==2.0
+tf-agents==0.3.0
+tensorflow_probability==0.8.0
+gym==0.15.4
+mujoco-py<2.1,>=2.0
+IPython
+imageio
+imageio-ffmpeg
+git+https://github.com/rail-berkeley/d4rl@master#egg=d4rl
+matplotlib
