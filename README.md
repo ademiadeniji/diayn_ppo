@@ -1,6 +1,3 @@
-# Latent Actor-Critic with Model Augmentation (LACMA)
-
-
 ## Installation
 
 1. **Install the Python development environment** 
@@ -49,5 +46,5 @@
 
 Run training and evaluation:
 ```bash
-python agents/lacma/examples/train_eval.py --root_dir outputs/lacma
+python train_eval_ppo.py --root_dir outputs
 ```
